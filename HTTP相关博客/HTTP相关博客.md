@@ -31,5 +31,5 @@ headers中可以查看请求或者相应的第一二部分，Response Headers是
 可以指定用什么命令，选项 -X  get/post...
 -d HTTP POST方式传送数据
 -s silent模式
-参数则是目标的网址~~
+参数则是目标的网址~~git
 
